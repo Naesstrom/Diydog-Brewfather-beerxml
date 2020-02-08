@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>KELLERBIER SMALL BATCH</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>All Grain</TYPE>
+    <BREWER>BREWDOG</BREWER>
+    <ASST_BREWER/>
+    <BATCH_SIZE>20</BATCH_SIZE>
+    <BOIL_SIZE>25</BOIL_SIZE>
+    <BOIL_TIME>90</BOIL_TIME>
+    <EFFICIENCY>74.42</EFFICIENCY>
+    <OG>1.043</OG>
+    <FG>1.011</FG>
+    <STYLE>
+      <NAME>Lager</NAME>
+      <CATEGORY>Lager</CATEGORY>
+      <CATEGORY_NUMBER></CATEGORY_NUMBER>
+      <STYLE_LETTER></STYLE_LETTER>
+      <STYLE_GUIDE></STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <TYPE></TYPE>
+      <OG_MIN></OG_MIN>
+      <OG_MAX></OG_MAX>
+      <FG_MIN></FG_MIN>
+      <FG_MAX></FG_MAX>
+      <IBU_MIN></IBU_MIN>
+      <IBU_MAX></IBU_MAX>
+      <COLOR_MIN></COLOR_MIN>
+      <COLOR_MAX></COLOR_MAX>
+    </STYLE>
+    <NOTES xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Brewdog Small Batch: Kellerbier
+
+Tagline: Crisp Unfiltered Goodness.
+First brewed: 2017
+Description:
+A pale lager, with toasty biscuit malt balances against a robust spicy bitterness.
+
+Food pairing:
+[Bratwurst and Mustard, Caraway Roast Pork, Gingerbread Cake]
+
+Brewers tips:
+Kellerbier translates to cellar beer, if you don’t have a cellar just make sure to keep the fermentation temperature as close as possible to what you'd expect in a bavarian basement.
+
+Brewdog id: #254
+    </NOTES>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Propino Pale</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>Grain</TYPE>
+        <AMOUNT>1.20</AMOUNT>
+        <YIELD>82.00</YIELD>
+        <COLOR>6</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Pilsner</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>Grain</TYPE>
+        <AMOUNT>1.35</AMOUNT>
+        <YIELD>83.00</YIELD>
+        <COLOR>2</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Munich</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>Grain</TYPE>
+        <AMOUNT>0.50</AMOUNT>
+        <YIELD>82.00</YIELD>
+        <COLOR>6</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Amber</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>Grain</TYPE>
+        <AMOUNT>0.10</AMOUNT>
+        <YIELD>70.00</YIELD>
+        <COLOR>27</COLOR>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Perle</NAME>
+        <VERSION>1</VERSION>
+        <ORIGIN></ORIGIN>
+        <ALPHA>8.10</ALPHA>
+        <AMOUNT>0.005</AMOUNT>
+
+        <USE>Boil</USE>
+        <TIME>60</TIME>
+        <TYPE>Both</TYPE>
+        <FORM>Pellet</FORM>
+        <BETA>0.00</BETA>
+      </HOP>
+      <HOP>
+        <NAME>Hallertauer Mittelfrüh</NAME>
+        <VERSION>1</VERSION>
+        <ORIGIN></ORIGIN>
+        <ALPHA>3.75</ALPHA>
+        <AMOUNT>0.007</AMOUNT>
+
+        <USE>Boil</USE>
+        <TIME>60</TIME>
+        <TYPE>Bittering</TYPE>
+        <FORM>Pellet</FORM>
+        <BETA>0.00</BETA>
+      </HOP>
+      <HOP>
+        <NAME>Mandarina Bavaria</NAME>
+        <VERSION>1</VERSION>
+        <ORIGIN></ORIGIN>
+        <ALPHA>9.50</ALPHA>
+        <AMOUNT>0.02</AMOUNT>
+
+        <USE>Boil</USE>
+        <TIME>0</TIME>
+        <TYPE>Aroma</TYPE>
+        <FORM>Pellet</FORM>
+        <BETA>0.00</BETA>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <NAME>Wyeast 2124 - Bohemian Lager</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>Lager</TYPE>
+        <FORM>Liquid</FORM>
+        <AMOUNT>0.0350000</AMOUNT>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+
+    </MISCS>
+    <MASH>
+      <NAME>Mash</NAME>
+      <VERSION>1</VERSION>
+      <GRAIN_TEMP>20</GRAIN_TEMP>
+      <MASH_STEPS>
+        <MASH_STEP>
+          <NAME>Mash step</NAME>
+          <VERSION>1</VERSION>
+          <TYPE>Temperature</TYPE>
+          <STEP_TEMP>56</STEP_TEMP>
+          <STEP_TIME>75</STEP_TIME>
+        </MASH_STEP>
+      </MASH_STEPS>
+    </MASH>
+
+    <PRIMARY_TEMP>10</PRIMARY_TEMP>
+
+  </RECIPE>
+</RECIPES>

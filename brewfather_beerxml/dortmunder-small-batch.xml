@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+                          <RECIPES>
+  <RECIPE>
+    <NAME>DORTMUNDER SMALL BATCH</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>All Grain</TYPE>
+    <BREWER>BREWDOG</BREWER>
+    <ASST_BREWER/>
+    <BATCH_SIZE>20</BATCH_SIZE>
+    <BOIL_SIZE>25</BOIL_SIZE>
+    <BOIL_TIME>90</BOIL_TIME>
+    <EFFICIENCY>81.63</EFFICIENCY>
+    <OG>1.049</OG>
+    <FG>1.009</FG>
+                <STYLE>
+        <NAME>Lager</NAME>
+        <CATEGORY>Lager</CATEGORY>
+        <CATEGORY_NUMBER></CATEGORY_NUMBER>
+        <STYLE_LETTER></STYLE_LETTER>
+        <STYLE_GUIDE></STYLE_GUIDE>
+        <VERSION>1</VERSION>
+        <TYPE></TYPE>
+        <OG_MIN></OG_MIN>
+        <OG_MAX></OG_MAX>
+        <FG_MIN></FG_MIN>
+        <FG_MAX></FG_MAX>
+        <IBU_MIN></IBU_MIN>
+        <IBU_MAX></IBU_MAX>
+        <COLOR_MIN></COLOR_MIN>
+        <COLOR_MAX></COLOR_MAX>
+      </STYLE>
+              <FERMENTABLES>
+            <FERMENTABLE>
+        <NAME>Pilsner</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>Grain</TYPE>
+        <AMOUNT>5.16</AMOUNT>
+        <YIELD>83.00</YIELD>
+        <COLOR>2</COLOR>
+      </FERMENTABLE>
+            <FERMENTABLE>
+        <NAME>Pale</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>Grain</TYPE>
+        <AMOUNT>1.72</AMOUNT>
+        <YIELD>80.00</YIELD>
+        <COLOR>4</COLOR>
+      </FERMENTABLE>
+          </FERMENTABLES>
+    <HOPS>
+                      <HOP>
+          <NAME>Magnum</NAME>
+          <VERSION>1</VERSION>
+          <ORIGIN></ORIGIN>
+          <ALPHA>14.40</ALPHA>
+          <AMOUNT>0.005</AMOUNT>
+
+                    <USE>Boil</USE>
+          <TIME>60</TIME>
+                    <TYPE>Bittering</TYPE>
+          <FORM>Pellet</FORM>
+          <BETA>0.00</BETA>
+        </HOP>
+                      <HOP>
+          <NAME>Sterling</NAME>
+          <VERSION>1</VERSION>
+          <ORIGIN>USA</ORIGIN>
+          <ALPHA>7.00</ALPHA>
+          <AMOUNT>0.01</AMOUNT>
+
+                    <USE>Boil</USE>
+          <TIME>60</TIME>
+                    <TYPE>Both</TYPE>
+          <FORM>Pellet</FORM>
+          <BETA>5.00</BETA>
+        </HOP>
+                      <HOP>
+          <NAME>Sterling</NAME>
+          <VERSION>1</VERSION>
+          <ORIGIN>USA</ORIGIN>
+          <ALPHA>7.00</ALPHA>
+          <AMOUNT>0.01</AMOUNT>
+
+                    <USE>Boil</USE>
+          <TIME>0</TIME>
+                    <TYPE>Both</TYPE>
+          <FORM>Pellet</FORM>
+          <BETA>5.00</BETA>
+        </HOP>
+          </HOPS>
+    <YEASTS>
+              <YEAST>
+          <NAME>Wyeast 2124 - Bohemian Lager</NAME>
+          <VERSION>1</VERSION>
+          <TYPE>Lager</TYPE>
+          <FORM>Liquid</FORM>
+          <AMOUNT>0.0350000</AMOUNT>
+        </YEAST>
+          </YEASTS>
+    <MISCS>
+      
+          </MISCS>
+    <MASH>
+      <NAME>Mash</NAME>
+      <VERSION>1</VERSION>
+      <GRAIN_TEMP>20</GRAIN_TEMP>
+      <MASH_STEPS>
+                        <MASH_STEP>
+            <NAME>Mash step</NAME>
+            <VERSION>1</VERSION>
+            <TYPE>Temperature</TYPE>
+            <STEP_TEMP>65</STEP_TEMP>
+            <STEP_TIME>75</STEP_TIME>
+          </MASH_STEP>
+                                  </MASH_STEPS>
+    </MASH>
+                    
+                        <PRIMARY_TEMP>14</PRIMARY_TEMP>
+              
+      </RECIPE>
+</RECIPES>
